@@ -6,7 +6,7 @@ RUN yum clean all \
       gcc-c++ \
       libffi-devel \
       make \
-      rpm \
+      rpm-build \
       ruby \
       ruby-devel \
       ruby-irb \
